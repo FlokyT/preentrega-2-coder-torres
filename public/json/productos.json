@@ -1,0 +1,53 @@
+[
+    {
+        "id": 1,
+        "idCategoria": 1,
+        "nombre": "Ark: Survival Evolved",
+        "Plataforma": "Pc",
+        "precio": 500,
+        "stock": 150,
+        "img": "img/ark.jpg",
+        "description": "Juega como un hombre o una mujer desnudo, congelándote y muriéndote de hambre en una isla misteriosa. Debes cazar, cosechar, crear objetos, cultivar, y construir refugios para sobrevivir. Usa tu habilidad y astucia para matar, domesticar, criar y cabalgar dinosaurios y otras criaturas primitivas."
+    },
+    {
+        "id": 2,
+        "idCategoria": 2,
+        "nombre": "Project Zomboid",
+        "Plataforma": "Pc",
+        "precio": 1500,
+        "stock": 100,
+        "img": "img/pz.jpg",
+        "description": "Project Zomboid es lo último en supervivencia de zombies. Solo o en multijugador: saqueas, construyes, creas, luchas, cultivas y pescas en una lucha por sobrevivir. Un conjunto de habilidades de RPG hardcore, un mapa vasto, un sandbox altamente personalizable y un lindo mapache tutorial esperan al desprevenido. Entonces, ¿cómo morirás? Todo lo que se necesita es una mordida..."
+    },
+    {
+        "id": 3,
+        "idCategoria": 3,
+        "nombre": "Red Dead Redemption 2",
+        "Plataforma": "Pc",
+        "precio": 4000,
+        "stock": 150,
+        "img": "img/reddead.jpg",
+        "description": "Con más de 175 premios al Juego del año y más de 250 valoraciones perfectas, Red Dead Redemption 2 es la épica historia de Arthur Morgan y la banda de Van der Linde, que huyen por toda América en el albor de una nueva era. También incluye acceso al mundo multijugador compartido de Red Dead Online."
+    },
+    {
+        "id": 4,
+        "idCategoria": 4,
+        "nombre": "Rust",
+        "Plataforma": "Pc",
+        "precio": 3500,
+        "stock": 100,
+        "img": "img/rust.jpg",
+        "description": "El único objetivo en Rust es sobrevivir. Todo quiere que mueras: la vida silvestre y otros habitantes de la isla, el medio ambiente, otros sobrevivientes. Haz lo que sea necesario para durar otra noche."
+    },
+    {
+        "id": 5,
+        "idCategoria": 5,
+        "nombre": "Son Of The Forest",
+        "Plataforma": "Pc",
+        "precio": 2100,
+        "stock": 150,
+        "img": "img/son_of.jpg",
+        "description": "Enviado para buscar a un multimillonario desaparecido en una isla remota, te encuentras en un infierno infestado de caníbales. Crea, construye y lucha por sobrevivir, solo o con amigos, en este nuevo simulador de terror de supervivencia de mundo abierto aterrador."
+    }
+    
+]
